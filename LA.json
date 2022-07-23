@@ -1,0 +1,484 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.07581954545455,
+          "lng": -118.25914385858586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.075869545455,
+            "lng": -118.25909385859
+          },
+          "southwest": {
+            "lat": 34.075769545455,
+            "lng": -118.25919385859
+          }
+        }
+      },
+      "ix": "",
+      "name": "Echo Park Farmers Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "l1",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0997432,
+          "lng": -118.328298
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0997932,
+            "lng": -118.328248
+          },
+          "southwest": {
+            "lat": 34.0996932,
+            "lng": -118.328348
+          }
+        }
+      },
+      "ix": "",
+      "name": "Hollywood Farmers’ Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "l2",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.07476328282828,
+          "lng": -118.32343705555556
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.074813282828,
+            "lng": -118.32338705556
+          },
+          "southwest": {
+            "lat": 34.074713282828,
+            "lng": -118.32348705556
+          }
+        }
+      },
+      "ix": "",
+      "name": "Larchmont Farmers' Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "l3",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.11731228282828,
+          "lng": -118.25953866666667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.117362282828,
+            "lng": -118.25948866667
+          },
+          "southwest": {
+            "lat": 34.117262282828,
+            "lng": -118.25958866667
+          }
+        }
+      },
+      "ix": "",
+      "name": "Atwater Village Farmers’ Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "l4",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 33.958496,
+          "lng": -118.39367
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 33.958546,
+            "lng": -118.39362
+          },
+          "southwest": {
+            "lat": 33.958446,
+            "lng": -118.39372
+          }
+        }
+      },
+      "ix": "",
+      "name": "Sundays Westchester Farmers’ Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "l5",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.77361,
+          "lng": -122.421622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7750214302915,
+            "lng": -122.4202089697085
+          },
+          "southwest": {
+            "lat": 37.7723234697085,
+            "lng": -122.4229069302915
+          }
+        }
+      },
+      "ix": "",
+      "name": "Zuni Café",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "some place id 41",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.77361,
+          "lng": -122.421622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7750214302915,
+            "lng": -122.4202089697085
+          },
+          "southwest": {
+            "lat": 37.7723234697085,
+            "lng": -122.4229069302915
+          }
+        }
+      },
+      "ix": "",
+      "name": "Zuni Café",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "some place id 41",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.77361,
+          "lng": -122.421622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7750214302915,
+            "lng": -122.4202089697085
+          },
+          "southwest": {
+            "lat": 37.7723234697085,
+            "lng": -122.4229069302915
+          }
+        }
+      },
+      "ix": "",
+      "name": "Zuni Café",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "some place id 41",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.77361,
+          "lng": -122.421622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7750214302915,
+            "lng": -122.4202089697085
+          },
+          "southwest": {
+            "lat": 37.7723234697085,
+            "lng": -122.4229069302915
+          }
+        }
+      },
+      "ix": "",
+      "name": "Zuni Café",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            ""
+          ],
+          "photo_reference": "",
+          "width": 6786
+        }
+      ],
+      "place_id": "some place id 41",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1675,
+      "vicinity": "1658 Market Street, San Francisco"
+    },
+  ],
+  "status": "OK"
+}
